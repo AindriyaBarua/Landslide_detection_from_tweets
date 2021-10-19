@@ -6,7 +6,7 @@ Twitter, a popular service for sending and receiving short, public text messages
 
 The code and extensive datasets for diffferent natural calamities, namely, eathquake, landslides, floods, are given. The datasets consist of tweets, and labels identifying them as landslide, flood, earthquake or none respectively.
 
-### WORK DONE TILL NOW:
+## STEPS:
 
 1. Collected dataset: Basic cleaning and labeling of the dataset using regular expressions, removing symbols like @(usernames), #(hashtags), RT(retweet), normalizing capitalization
 Cleaned dataset to form 33,955 lines of data: Processed using Numpy, ignoring bad lines
