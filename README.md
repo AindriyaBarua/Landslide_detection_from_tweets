@@ -1,4 +1,4 @@
-# Natural_calamity_detection_from_tweets
+# Landslide detection from tweets
 
 This is done as part of my research internship at Amrita Center for Wireless Networks and Applications (https://www.amrita.edu/center/awna)
 
